@@ -1,0 +1,4 @@
+zlib1g-dev
+libjpeg-dev
+gcc
+python3-dev
